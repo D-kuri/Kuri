@@ -2,5 +2,7 @@
 using namespace std;
 
 int main(){
-	cout << 1 << endl;
+	int a = 2;
+	int b = 1;
+	cout << "Hello World!\n"<< a+b << endl;
 }
